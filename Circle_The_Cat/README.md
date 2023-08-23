@@ -13,7 +13,7 @@ full, with the cat standing in the center on an empty tile.
 the Purpose of the game:
 The player must surround the cat from all sides, with the help of "filling the tiles", so that he has nowhere to go:
 
-![](img/screenshot1.png)
+![](img/screenshot1.jpg)
 
 # Game rules:
 This is a turn-based game of player versus computer. The player on his turn chooses one tile he wishes to block by clicking
